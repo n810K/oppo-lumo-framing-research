@@ -1,13 +1,16 @@
-# OPPO Live guide research
+# OPPO LUMO Framing research
 
-The Find X9 Pro ran OPPO's actual Live guide inference and guided zoom without root, inside a separate modified Camera APK. It did not become a reliable replacement for the original Camera. The final experiment saved real photographs through a standard Camera2 JPEG session, but bypassed the original multi-frame processing, had visibly different quality and colors, and still suffered lens jumps and a repeat-shutter failure.
+The Find X9 Pro ran OPPO's LUMO Framing software and guided zoom without root, inside a separate modified Camera APK. It did not become a reliable replacement for the original Camera. The final experiment saved real photographs through a standard Camera2 JPEG session, but bypassed the original multi-frame processing, had visibly different quality and colors, and still suffered lens jumps and a repeat-shutter failure.
 
 This repository preserves the investigation and original experimental patch/helper source. It is a research archive, not an installable camera release.
 
 - [Research report](docs/research.md)
+- [Technical notes](docs/technical-notes.md)
 - [Evidence and limitations](evidence/results.json)
 - [Source map and reconstruction requirements](docs/source-map.md)
 - Website article prepared for n810studios.com; publication is pending the site integration merge.
+
+OPPO calls the feature LUMO Framing. The test app labelled its control Live guide, which is the name retained in historical filenames and code.
 
 ## Scope
 

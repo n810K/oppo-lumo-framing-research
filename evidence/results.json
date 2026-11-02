@@ -102,5 +102,14 @@
       "supports": "decoded portrait JPEG; photo not published"
     }
   ],
-  "evidence_policy": "Curated measurements from private records. Raw device logs and photographs are not distributed. No claim of independent reproduction."
+  "evidence_policy": "Curated measurements from private records. Raw device logs and photographs are not distributed. No claim of independent reproduction.",
+  "feature_name": "LUMO Framing",
+  "tested_ui_label": "Live guide",
+  "feature_name_source": "https://www.oppo.com/en/articles/find-x10-series/best-phone-natural-image-processing-detail/",
+  "closeout": {
+    "test_packages_removed": true,
+    "confirmed_temporary_files_removed": true,
+    "original_hashes_unchanged": true,
+    "shared_photo_inventory_unchanged": true
+  }
 }
