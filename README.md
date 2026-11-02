@@ -7,7 +7,7 @@ This repository preserves the investigation and original experimental patch/help
 - [Research report](docs/research.md)
 - [Evidence and limitations](evidence/results.json)
 - [Source map and reconstruction requirements](docs/source-map.md)
-- [Website integration](https://github.com/n810K/n810studios)
+- Website article prepared for n810studios.com; publication is pending the site integration merge.
 
 ## Scope
 
