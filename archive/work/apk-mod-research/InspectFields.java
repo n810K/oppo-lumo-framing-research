@@ -1,0 +1,2 @@
+import com.android.tools.smali.dexlib2.*;import com.android.tools.smali.dexlib2.iface.instruction.*;import com.android.tools.smali.dexlib2.iface.reference.*;
+public class InspectFields{public static void main(String[]a)throws Exception{var c=DexFileFactory.loadDexContainer(new java.io.File(a[0]),Opcodes.forDexVersion(39));for(var n:c.getDexEntryNames())for(var cl:c.getEntry(n).getDexFile().getClasses())if(cl.getType().equals(a[1]))for(var f:cl.getFields())System.out.println(f);}}

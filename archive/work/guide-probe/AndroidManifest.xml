@@ -1,0 +1,12 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.n810.camera.guideprobe">
+    <uses-sdk android:minSdkVersion="29" android:targetSdkVersion="37" />
+    <uses-permission android:name="mediatek.permission.ACCESS_APU_SYS" />
+    <application android:label="Camera" android:debuggable="true" android:allowBackup="false" android:extractNativeLibs="true" android:theme="@android:style/Theme.Material.Light.NoActionBar">
+        <uses-native-library android:name="libneuron_runtime.9.so" android:required="false" />
+        <uses-native-library android:name="libneuron_adapter_mgvi.so" android:required="false" />
+        <uses-native-library android:name="libtflite_mtk_vnd.so" android:required="false" />
+        <uses-native-library android:name="libaiboost.so" android:required="false" />
+        <uses-native-library android:name="libaiboost_llm.so" android:required="false" />
+        <activity android:name=".ProbeActivity" android:exported="true" />
+    </application>
+</manifest>

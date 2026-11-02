@@ -1,0 +1,17 @@
+*.apk
+*.dex
+*.so
+*.img
+*.bin
+*.dla
+*.dlx
+*.zip
+*.p12
+*.jks
+*.keystore
+*.pem
+*password*
+.env*
+__pycache__/
+.DS_Store
+private/

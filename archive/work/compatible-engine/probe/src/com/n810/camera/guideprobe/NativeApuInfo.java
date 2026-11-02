@@ -1,0 +1,1 @@
+package com.n810.camera.guideprobe; public final class NativeApuInfo { public static native long query(int field); }

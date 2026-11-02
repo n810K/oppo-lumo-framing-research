@@ -1,0 +1,106 @@
+{
+  "date": "2026-11-02",
+  "status": "paused_incomplete_camera",
+  "device": {
+    "model": "CPH2791",
+    "os": "ColorOS 17",
+    "original_camera": "7.006.125",
+    "root_used": false
+  },
+  "packages": {
+    "original": "com.oplus.camera",
+    "modified": "com.n810.camera.aicomposition.lab",
+    "earlier_prototype": "com.n810.camera.liveguide"
+  },
+  "flags": {
+    "com.oplus.feature.aicomposition.realscene.support": "absent in inspected shipped maps; Boolean fallback false",
+    "com.oplus.feature.aicomposition.inspiration.support": "absent in inspected shipped maps; Boolean fallback false",
+    "private_original_overrides_read": false
+  },
+  "verified": {
+    "real_oem_inference": true,
+    "guided_zoom": true,
+    "requested_zoom": 2.49756,
+    "camera_service_zoom": 2.49756002,
+    "observed_inference_ms": [
+      4896,
+      3678,
+      1835
+    ],
+    "jpeg_dimensions": [
+      [
+        4096,
+        3072
+      ],
+      [
+        3072,
+        4096
+      ]
+    ],
+    "aligned_shot": {
+      "zoom": 3.3355,
+      "focal_length": 16.53,
+      "af_state": 2,
+      "jpeg_bytes": 2504592
+    }
+  },
+  "unresolved": [
+    "stock multi-frame still processing",
+    "HDR preview",
+    "repeat shutter completion",
+    "smooth capture/lens transitions",
+    "English model captions",
+    "complete Gallery lifecycle",
+    "full camera-mode parity"
+  ],
+  "stock_processing_parity": false,
+  "usable_replacement": false,
+  "self_contained_apk": false,
+  "models_separately_provisioned": true,
+  "original_file_hashes_recorded_before_cleanup": {
+    "active_genuine_apk": "a2e4f365f2dc937fd3ff8d7638017d397d0383dc423106412a14074fca9312cd",
+    "factory_apk": "9fe309c165e2e2d973b7d65ee956a57009313ae5cf2ad038ecab3375416f907e",
+    "odm_oplus_camera_config": "12f00aa69ca586580860bed6c395dba1b705e5699dadbf28fcc22646f7934ee6"
+  },
+  "donors": [
+    {
+      "build": "CPH2911_17.0.0.106(EX01)",
+      "platform": "dx5 / MT6993",
+      "archive_sha256": "2b42f2a28b469e2f6b729ba308c69e5255de0447429463f075409dbc3226ff6f",
+      "result": "compatible tested engine combination"
+    },
+    {
+      "build": "CPH2913_17.0.0.106(EX01)",
+      "platform": "dx6",
+      "archive_sha256": "192b3495e6e0ddb5b471844213a990e5ba0ec69fd97b80b6f69846e81476c868",
+      "result": "not the successful dx5 donor"
+    }
+  ],
+  "private_evidence_sources": [
+    {
+      "path": "outputs/Camera feature flag findings.txt",
+      "supports": "configuration gates and live-value limitation"
+    },
+    {
+      "path": "outputs/Modified Camera investigation.txt",
+      "supports": "final status and observed failures"
+    },
+    {
+      "path": "work/apk-mod-research/oem-inference-success/",
+      "supports": "actual OEM inference and independent camera-service zoom"
+    },
+    {
+      "path": "work/apk-mod-research/photo-working/aligned-two-taps.txt",
+      "supports": "first photo then second shutter click without SDK capture"
+    },
+    {
+      "path": "work/apk-mod-research/photo-working/first-saved.jpg",
+      "supports": "decoded full-resolution JPEG; photo not published"
+    },
+    {
+      "path": "work/apk-mod-research/photo-working/saved-3x.jpg",
+      "supports": "decoded portrait JPEG; photo not published"
+    }
+  ],
+  "evidence_policy": "Curated measurements from private records. Raw device logs and photographs are not distributed. No claim of independent reproduction."
+}

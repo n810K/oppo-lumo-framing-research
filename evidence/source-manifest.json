@@ -1,0 +1,377 @@
+[
+  {
+    "path": "archive/work/CameraAnalysis.java",
+    "original_sha256": "a411d91d8fd3ff64b14c365ea9fe0d5a1f66d84b33fb0fcf08ad85a410d1ec86",
+    "published_sha256": "a411d91d8fd3ff64b14c365ea9fe0d5a1f66d84b33fb0fcf08ad85a410d1ec86"
+  },
+  {
+    "path": "archive/work/CameraCapabilityProbe.java",
+    "original_sha256": "01d59aac9a074f4f1edd1e7bffc14412fbbfc7e1a5d4ab2b3be0719eddf0f5c2",
+    "published_sha256": "01d59aac9a074f4f1edd1e7bffc14412fbbfc7e1a5d4ab2b3be0719eddf0f5c2"
+  },
+  {
+    "path": "archive/work/CanonicalizeDex.java",
+    "original_sha256": "b6c26f468f68b83e132ca7fedf6caf8fcb0e73bc0539d2808f2f5ffed3863285",
+    "published_sha256": "b6c26f468f68b83e132ca7fedf6caf8fcb0e73bc0539d2808f2f5ffed3863285"
+  },
+  {
+    "path": "archive/work/MethodRefs.java",
+    "original_sha256": "6a41de4c22af33ed88b911d1b91977c1ae060789bc331590fdecf199f5f5a438",
+    "published_sha256": "6a41de4c22af33ed88b911d1b91977c1ae060789bc331590fdecf199f5f5a438"
+  },
+  {
+    "path": "archive/work/PatchClone.java",
+    "original_sha256": "010de5ffeb3bc3494a142ea6bb5505fb7abe722c2ab989ed7f7c6001a481dad5",
+    "published_sha256": "010de5ffeb3bc3494a142ea6bb5505fb7abe722c2ab989ed7f7c6001a481dad5"
+  },
+  {
+    "path": "archive/work/PatchCompatibility.java",
+    "original_sha256": "e908a9bafe30caa0e4fc464a52bb14b1ba3b94740e6b7b7db7ea423b9260bed6",
+    "published_sha256": "e908a9bafe30caa0e4fc464a52bb14b1ba3b94740e6b7b7db7ea423b9260bed6"
+  },
+  {
+    "path": "archive/work/PatchConfigPaths.java",
+    "original_sha256": "066e9ac83deb615157b7e1e9d63bc198104352b99f9cc8c03ac6be01fcf5d7cb",
+    "published_sha256": "066e9ac83deb615157b7e1e9d63bc198104352b99f9cc8c03ac6be01fcf5d7cb"
+  },
+  {
+    "path": "archive/work/PatchDeepThinker.java",
+    "original_sha256": "3ca7b03bebb4bceffb6e3abeed7be61a2068ca729e70414d87e18c3225a4353a",
+    "published_sha256": "3ca7b03bebb4bceffb6e3abeed7be61a2068ca729e70414d87e18c3225a4353a"
+  },
+  {
+    "path": "archive/work/PatchDiagnosticLog.java",
+    "original_sha256": "26b09af59b00c336f5be47e6a307e31ab65542bfa76e730832bd4a40b3654010",
+    "published_sha256": "26b09af59b00c336f5be47e6a307e31ab65542bfa76e730832bd4a40b3654010"
+  },
+  {
+    "path": "archive/work/PatchFeatureHook.java",
+    "original_sha256": "6eab6550a535b2dcc5fa8005bdace230a88f36c56b7fc49895b9d404f7b34fe0",
+    "published_sha256": "6eab6550a535b2dcc5fa8005bdace230a88f36c56b7fc49895b9d404f7b34fe0"
+  },
+  {
+    "path": "archive/work/PatchGallery.java",
+    "original_sha256": "94f8126dbf8f1388ec82de6eabb46c1287088e9875ac1af4beeb0ba0a89a9150",
+    "published_sha256": "94f8126dbf8f1388ec82de6eabb46c1287088e9875ac1af4beeb0ba0a89a9150"
+  },
+  {
+    "path": "archive/work/PatchGalleryLaunch.java",
+    "original_sha256": "4c64af5ceec6c7ae77fcc27fececa797977b8b26d43e0d341d040177910895a7",
+    "published_sha256": "4c64af5ceec6c7ae77fcc27fececa797977b8b26d43e0d341d040177910895a7"
+  },
+  {
+    "path": "archive/work/PatchKeyguard.java",
+    "original_sha256": "796a58b5af112b2ec02c99533c90b2983c7ddb438ed1b6d111c9849952e3ce9a",
+    "published_sha256": "796a58b5af112b2ec02c99533c90b2983c7ddb438ed1b6d111c9849952e3ce9a"
+  },
+  {
+    "path": "archive/work/PatchPublicPreviewHook.java",
+    "original_sha256": "9a4d4bd13670ebc3de8b168d44363dce4ac31a90e36245563efb5f294a8aa7aa",
+    "published_sha256": "9a4d4bd13670ebc3de8b168d44363dce4ac31a90e36245563efb5f294a8aa7aa"
+  },
+  {
+    "path": "archive/work/PatchRemoteDenied.java",
+    "original_sha256": "5335542cd52126d4dc24a66aaf56fc9de52b267e14ce56502feb77337c48e74e",
+    "published_sha256": "5335542cd52126d4dc24a66aaf56fc9de52b267e14ce56502feb77337c48e74e"
+  },
+  {
+    "path": "archive/work/PatchStartupHook.java",
+    "original_sha256": "7d02ee2f78292090e69cbb6075f7124b1f4758f6885ac4a9eadb9b078759bc44",
+    "published_sha256": "7d02ee2f78292090e69cbb6075f7124b1f4758f6885ac4a9eadb9b078759bc44"
+  },
+  {
+    "path": "archive/work/PatchVoidDenial.java",
+    "original_sha256": "93666106c08b7cff3ab88b8a2df46272b04413b0d3dbe42cdbad3eefb34a1617",
+    "published_sha256": "93666106c08b7cff3ab88b8a2df46272b04413b0d3dbe42cdbad3eefb34a1617"
+  },
+  {
+    "path": "archive/work/ShellCameraAuthProbe.java",
+    "original_sha256": "7654303738cd58fdb130e32faed3484bb8e2b2b86c771cb573145598e075b079",
+    "published_sha256": "7654303738cd58fdb130e32faed3484bb8e2b2b86c771cb573145598e075b079"
+  },
+  {
+    "path": "archive/work/apk-mod-research/CameraMetadataTest.java",
+    "original_sha256": "f401330ecad48ff21a0d9e7774e182617e2c2283af906dfd918b27405b9f4b89",
+    "published_sha256": "f401330ecad48ff21a0d9e7774e182617e2c2283af906dfd918b27405b9f4b89"
+  },
+  {
+    "path": "archive/work/apk-mod-research/DecompileSelected.java",
+    "original_sha256": "9a360bd06ef2fb859586cd4ea31018d56fd90ae88bf53b0a4bf8535457a3f8d1",
+    "published_sha256": "9a360bd06ef2fb859586cd4ea31018d56fd90ae88bf53b0a4bf8535457a3f8d1"
+  },
+  {
+    "path": "archive/work/apk-mod-research/ExtractIntegrationDex.java",
+    "original_sha256": "10583fc77f37b1aa617e23ae656aae70591e25291653b21f48f207aaefb4bbae",
+    "published_sha256": "10583fc77f37b1aa617e23ae656aae70591e25291653b21f48f207aaefb4bbae"
+  },
+  {
+    "path": "archive/work/apk-mod-research/FindClassSource.java",
+    "original_sha256": "7521c0bec2231b008df0b08434fe7f04cae9de84421ed29085035f49bf80e8ea",
+    "published_sha256": "7521c0bec2231b008df0b08434fe7f04cae9de84421ed29085035f49bf80e8ea"
+  },
+  {
+    "path": "archive/work/apk-mod-research/InspectCallback.java",
+    "original_sha256": "bd885da47124ae7da227535b4da937154c523ff1b321d11e14e639aeed1ec083",
+    "published_sha256": "bd885da47124ae7da227535b4da937154c523ff1b321d11e14e639aeed1ec083"
+  },
+  {
+    "path": "archive/work/apk-mod-research/InspectFields.java",
+    "original_sha256": "5e1a89ea24840407ff687f19cac6590c9872e047dcf1a491c4f3c9966142a7d3",
+    "published_sha256": "5e1a89ea24840407ff687f19cac6590c9872e047dcf1a491c4f3c9966142a7d3"
+  },
+  {
+    "path": "archive/work/apk-mod-research/InspectMethods.java",
+    "original_sha256": "5d33b973a0f6106ddf6c5f5972a10fb36c477ad825fb3a6b299a76ec285835c3",
+    "published_sha256": "5d33b973a0f6106ddf6c5f5972a10fb36c477ad825fb3a6b299a76ec285835c3"
+  },
+  {
+    "path": "archive/work/apk-mod-research/InspectString.java",
+    "original_sha256": "4217bc675c354852ed6a403973d21e37b70a712fc3e70960bb55f6eb486f5e3d",
+    "published_sha256": "4217bc675c354852ed6a403973d21e37b70a712fc3e70960bb55f6eb486f5e3d"
+  },
+  {
+    "path": "archive/work/apk-mod-research/PatchAiBind.java",
+    "original_sha256": "5ac6a8c563a61f0d17594e6b13bf88db591e47297e10d95da0bc5600f90b0e81",
+    "published_sha256": "5ac6a8c563a61f0d17594e6b13bf88db591e47297e10d95da0bc5600f90b0e81"
+  },
+  {
+    "path": "archive/work/apk-mod-research/PatchAppSwitch.java",
+    "original_sha256": "e71aab6c1541d8c70404b07976e5cd417bb52d59b82caabc655beeae2633475e",
+    "published_sha256": "e71aab6c1541d8c70404b07976e5cd417bb52d59b82caabc655beeae2633475e"
+  },
+  {
+    "path": "archive/work/apk-mod-research/PatchCameraMetadata.java",
+    "original_sha256": "6bc6de21114b84180046a7fb8b52bcb98575d411ee24cc3069428ee9a47f093c",
+    "published_sha256": "6bc6de21114b84180046a7fb8b52bcb98575d411ee24cc3069428ee9a47f093c"
+  },
+  {
+    "path": "archive/work/apk-mod-research/PatchGalleryEntry.java",
+    "original_sha256": "30c1a062f7516168d20c2c6b85df9f2802b99571c21513cc63f3d131bc089fc1",
+    "published_sha256": "30c1a062f7516168d20c2c6b85df9f2802b99571c21513cc63f3d131bc089fc1"
+  },
+  {
+    "path": "archive/work/apk-mod-research/PatchIntegrationProperty.java",
+    "original_sha256": "f716d3e8299181ebd3c114e1ecd850d720b938577a6ba7b26266714d3cb9b09d",
+    "published_sha256": "f716d3e8299181ebd3c114e1ecd850d720b938577a6ba7b26266714d3cb9b09d"
+  },
+  {
+    "path": "archive/work/apk-mod-research/PatchThumbnailTransition.java",
+    "original_sha256": "8ea5ffff42ee4af1c919615d461348d9c1c2bf6845ae9f39c238c21a8a1c330e",
+    "published_sha256": "8ea5ffff42ee4af1c919615d461348d9c1c2bf6845ae9f39c238c21a8a1c330e"
+  },
+  {
+    "path": "archive/work/apk-mod-research/VerifyHook.java",
+    "original_sha256": "cb7b770a899ff891dbf9d18bb95dedae2a65f61e2fb20efeaa4ff51f7ec92c94",
+    "published_sha256": "cb7b770a899ff891dbf9d18bb95dedae2a65f61e2fb20efeaa4ff51f7ec92c94"
+  },
+  {
+    "path": "archive/work/apk-mod-research/agent/repair-engine-trace.c",
+    "original_sha256": "26b5f6035f6488dcfe746ced21d6f37b74b905cc937215ea53062963377e5b80",
+    "published_sha256": "26b5f6035f6488dcfe746ced21d6f37b74b905cc937215ea53062963377e5b80"
+  },
+  {
+    "path": "archive/work/apk-mod-research/agent/repair-engine.c",
+    "original_sha256": "86409b4ce83248795728bb68704ed75062bf8e6a0214ce6cc90cab1d71824e8c",
+    "published_sha256": "86409b4ce83248795728bb68704ed75062bf8e6a0214ce6cc90cab1d71824e8c"
+  },
+  {
+    "path": "archive/work/apk-mod-research/agent/repair.c",
+    "original_sha256": "3890f65a1f1387b5236d5928dfb4223a36141ea1fb53fd73cc42d6bd568c7aa2",
+    "published_sha256": "3890f65a1f1387b5236d5928dfb4223a36141ea1fb53fd73cc42d6bd568c7aa2"
+  },
+  {
+    "path": "archive/work/apk-mod-research/agent/trace.c",
+    "original_sha256": "7f1223136bed333bf2d14c53b45b62ec0e11f8133421078e93ae30fb86804a95",
+    "published_sha256": "7f1223136bed333bf2d14c53b45b62ec0e11f8133421078e93ae30fb86804a95"
+  },
+  {
+    "path": "archive/work/apk-mod-research/build_bundled_test.py",
+    "original_sha256": "d06bbbdedaa4ccaf976ebf67e86e5aca0ad260b025e9198994be903c0c35450f",
+    "published_sha256": "5952a36cf0aae026fab2c6d06231f5939cf01de5ae88599a06a604d56f66c786"
+  },
+  {
+    "path": "archive/work/apk-mod-research/build_donor_adapter_test.py",
+    "original_sha256": "433db1a353940ed2e78d66f22d73c942ed65a6190aab27a6e67fb0051bd4bd76",
+    "published_sha256": "eb3227ab8819d4967eb34be97b303ef62450e5ebd77f6004542feae53560f40f"
+  },
+  {
+    "path": "archive/work/apk-mod-research/build_metadata_test.py",
+    "original_sha256": "655f4cf5c70ab775914000a6f7633689e6b3ddadf23851fc1816a399e2846bc3",
+    "published_sha256": "21dc69477eb3617bb90e4f2935f9a50f1963c90eadfe97c0f404adc0e31c16db"
+  },
+  {
+    "path": "archive/work/apk-mod-research/rebuild_photo_helper.py",
+    "original_sha256": "6c3ba80e3b13ae95699a875f4595933d3595931c177cfc44cec1ccf191b03336",
+    "published_sha256": "5f89ed1a85e8acf13832c1852cb04ef7f61393821f23d11f7dd6b1fef4ca86e8"
+  },
+  {
+    "path": "archive/work/apk-mod-research/run_agent.py",
+    "original_sha256": "1f12bdd2a8df4f86b959e2188115e0399529e1bb11b9e2318c173111c558d35e",
+    "published_sha256": "7fe4551d264fc040a6e458aaffa710e10ede7220a52a29fe511acbee5c567d92"
+  },
+  {
+    "path": "archive/work/apk-mod-research/run_candidate.py",
+    "original_sha256": "59e368faa8fb8c7f68dd5cc90db763234d3249f66c6f9c2a79f080bd50f54a33",
+    "published_sha256": "59f6953f697224dace772738e56e106f807531117cd7266988126f6132045eb8"
+  },
+  {
+    "path": "archive/work/apk-mod-research/run_repair.py",
+    "original_sha256": "c3255c2a8caf87996022ff9073ee727416914a704f0b65e7bbfe8d60a16bc3f0",
+    "published_sha256": "d60469dc0ab15beb62218d736ac842f4efe6bdc882e7c3228772788dab685fab"
+  },
+  {
+    "path": "archive/work/apk-mod-research/test_capture.py",
+    "original_sha256": "cee2d2b77c2e4da3714a9e89a795aa70b699a97554b3d95fe74f7e196a02d2d5",
+    "published_sha256": "6b796dd2b8e8d42b771b79522b4ec22c43e3607d5b1f9e15f41195e3688ed574"
+  },
+  {
+    "path": "archive/work/apk-mod-research/test_composition_ui.py",
+    "original_sha256": "53dfb6d2ae3c0d2c5617f288344b8e5b702ea536e4cb66732fc9c5c36d616453",
+    "published_sha256": "1d28c0b15eb080bb56990b0e03c22105300cf3dabf164a50bf2aab538337310e"
+  },
+  {
+    "path": "archive/work/build_camera.py",
+    "original_sha256": "92e8fc4f2a4663b7238a8566d0c6cdb85f634bdd192df8b1a94aa66d8986a169",
+    "published_sha256": "ff2dbcfc34067678818dddf90e7a66c843aafec4910e44db8642624cdf122400"
+  },
+  {
+    "path": "archive/work/compat-src/com/n810/camera/lab/Compatibility.java",
+    "original_sha256": "00b57b54e317908deaea56628b09b35670ce061f7b04cb008b29d3f61d36592a",
+    "published_sha256": "00b57b54e317908deaea56628b09b35670ce061f7b04cb008b29d3f61d36592a"
+  },
+  {
+    "path": "archive/work/compat-src/com/n810/camera/lab/LiveGuideProbe.java",
+    "original_sha256": "f2235ae7c1449a732af7436798042859db99da6a4fd287c1d6506d38b214088e",
+    "published_sha256": "f2235ae7c1449a732af7436798042859db99da6a4fd287c1d6506d38b214088e"
+  },
+  {
+    "path": "archive/work/compat-src/com/n810/camera/lab/ShizukuProbe.java",
+    "original_sha256": "cdcb3c5ab94e7bb13bf9f6aa9d32ecbbd6e55b707ae5718641f376c21eb83a32",
+    "published_sha256": "cdcb3c5ab94e7bb13bf9f6aa9d32ecbbd6e55b707ae5718641f376c21eb83a32"
+  },
+  {
+    "path": "archive/work/compatible-engine/build_probe.py",
+    "original_sha256": "bc504e8095b7bb3c3d688f730e4229d74563425392d6bf051d4b256a0c5874a2",
+    "published_sha256": "b9000d3de5cd28df92a732d7057063e7a1ee7ea885c4cd8d7adf7db09136c932"
+  },
+  {
+    "path": "archive/work/compatible-engine/compare_embedding.py",
+    "original_sha256": "f5a194b98968add7d8886d1784edb2b4056efa9f1bbdd40a30f0c749661425fd",
+    "published_sha256": "f5a194b98968add7d8886d1784edb2b4056efa9f1bbdd40a30f0c749661425fd"
+  },
+  {
+    "path": "archive/work/compatible-engine/inspect_remote_zip.py",
+    "original_sha256": "d0c41b1506c030c0a43c51a2c98e4c118fcfb8bd3363d51d59f659e52b01b9ff",
+    "published_sha256": "d0c41b1506c030c0a43c51a2c98e4c118fcfb8bd3363d51d59f659e52b01b9ff"
+  },
+  {
+    "path": "archive/work/compatible-engine/probe/src/com/n810/camera/guideprobe/NativeApuInfo.java",
+    "original_sha256": "c7466f84944908977defae02446e082820c56092af6d5591cc0d0b5458049a20",
+    "published_sha256": "c7466f84944908977defae02446e082820c56092af6d5591cc0d0b5458049a20"
+  },
+  {
+    "path": "archive/work/compatible-engine/probe/src/com/n810/camera/guideprobe/ProbeActivity.java",
+    "original_sha256": "fce3b14aa8f51e296e8586cda50256536800033d9b0afc7a7c358f36e8264c2e",
+    "published_sha256": "fce3b14aa8f51e296e8586cda50256536800033d9b0afc7a7c358f36e8264c2e"
+  },
+  {
+    "path": "archive/work/compatible-engine/stage_probe.py",
+    "original_sha256": "53ad5cb7715928751feef3dfe1f77bef2d9fba07948d042c674e80c59a64281f",
+    "published_sha256": "6032c3d53d1540b244b2b09f6b957e6d10296d803b27741316589103f24d3cbb"
+  },
+  {
+    "path": "archive/work/compatible-engine/verify_extract.py",
+    "original_sha256": "6bdad730690ab231fcefa46c28e1c64d4e9042f5369731b5eadb71ed20706dbc",
+    "published_sha256": "6bdad730690ab231fcefa46c28e1c64d4e9042f5369731b5eadb71ed20706dbc"
+  },
+  {
+    "path": "archive/work/composition_type_refs.py",
+    "original_sha256": "d03123dda8b2b6ee9c511abce55afe6d6d93afb38789eae8817ab5656d6774e6",
+    "published_sha256": "d03123dda8b2b6ee9c511abce55afe6d6d93afb38789eae8817ab5656d6774e6"
+  },
+  {
+    "path": "archive/work/decode_camera_config.py",
+    "original_sha256": "97f418ccddc3961a50fb965d075c41371889671ba0b8f6b1a8a2783ef4637a04",
+    "published_sha256": "97f418ccddc3961a50fb965d075c41371889671ba0b8f6b1a8a2783ef4637a04"
+  },
+  {
+    "path": "archive/work/dex_refs.py",
+    "original_sha256": "2e47083bf86735a322205a9b16a29162fae2c3646f92cb915805a13a8eb1055c",
+    "published_sha256": "2e47083bf86735a322205a9b16a29162fae2c3646f92cb915805a13a8eb1055c"
+  },
+  {
+    "path": "archive/work/feature_refs.py",
+    "original_sha256": "48ae4f9a84c0026d9aae7d98de11da717b165b9dff48858ac47b82d3406b125b",
+    "published_sha256": "48ae4f9a84c0026d9aae7d98de11da717b165b9dff48858ac47b82d3406b125b"
+  },
+  {
+    "path": "archive/work/gallery_refs.py",
+    "original_sha256": "29e7027551c686869f7f362e844fdac56ec58c80b28c0ca32992144e4656be47",
+    "published_sha256": "29e7027551c686869f7f362e844fdac56ec58c80b28c0ca32992144e4656be47"
+  },
+  {
+    "path": "archive/work/guide-probe/AndroidManifest.xml",
+    "original_sha256": "dcf84e092545e35d96ce103572fb5bd34529efe339201ff4689fef068fc9e1ea",
+    "published_sha256": "dcf84e092545e35d96ce103572fb5bd34529efe339201ff4689fef068fc9e1ea"
+  },
+  {
+    "path": "archive/work/guide-probe/build.py",
+    "original_sha256": "d9de43cca181fdd6d05f2b41301ee57a38dcb20c2d5ba808210e54787ae32596",
+    "published_sha256": "d95bb565789ae694e9441cd7471491cd3fad95f9ac1989df1ab4bd544c092b9e"
+  },
+  {
+    "path": "archive/work/guide-probe/src/com/n810/camera/guideprobe/ProbeActivity.java",
+    "original_sha256": "d383a30da8dae339f64a5de535b47223e0d4268d0465d61927a78f98a6e4606b",
+    "published_sha256": "d383a30da8dae339f64a5de535b47223e0d4268d0465d61927a78f98a6e4606b"
+  },
+  {
+    "path": "archive/work/jdwp_trace.py",
+    "original_sha256": "aad42f2c8025fa969b33a4de5fb06a2e1151912875d89924a2712f91aebbcf4f",
+    "published_sha256": "aad42f2c8025fa969b33a4de5fb06a2e1151912875d89924a2712f91aebbcf4f"
+  },
+  {
+    "path": "archive/work/liveguide-app/AndroidManifest.xml",
+    "original_sha256": "22bae180d5a8155e84d72122c07d5693922998899bb8e229ea55d21d5ce964bc",
+    "published_sha256": "22bae180d5a8155e84d72122c07d5693922998899bb8e229ea55d21d5ce964bc"
+  },
+  {
+    "path": "archive/work/liveguide-app/build.py",
+    "original_sha256": "1776fd96c6553675e7626895c46e1692f321802b69ce0a1db149a79f14a045c5",
+    "published_sha256": "abfde564bd9d784e3d7ba9f4c85b4fbfd964a2a3e936f6a4663d5cd1a0acda9b"
+  },
+  {
+    "path": "archive/work/liveguide-app/res/drawable/camera_icon.xml",
+    "original_sha256": "f49ffca9f9c0be8de29400298b94e7e25c798e43244ef226ad4332eac2e06f47",
+    "published_sha256": "f49ffca9f9c0be8de29400298b94e7e25c798e43244ef226ad4332eac2e06f47"
+  },
+  {
+    "path": "archive/work/liveguide-app/src/com/n810/camera/liveguide/MainActivity.java",
+    "original_sha256": "c90e47ac2b673c6c4334829f97383ff912b57efb2d40668918cb435f6f37e47f",
+    "published_sha256": "c90e47ac2b673c6c4334829f97383ff912b57efb2d40668918cb435f6f37e47f"
+  },
+  {
+    "path": "archive/work/prepare_clone.py",
+    "original_sha256": "d9a68113c414963a398347379e7b7bdb78c3df41199b52aa85a295120d64ecd8",
+    "published_sha256": "d9a68113c414963a398347379e7b7bdb78c3df41199b52aa85a295120d64ecd8"
+  },
+  {
+    "path": "archive/work/raw_field_refs.py",
+    "original_sha256": "67cb837e5576c13cbeabfe648f8076369d8effc5b884c3b2126bb25e84d86297",
+    "published_sha256": "67cb837e5576c13cbeabfe648f8076369d8effc5b884c3b2126bb25e84d86297"
+  },
+  {
+    "path": "archive/work/raw_refs.py",
+    "original_sha256": "56e1ebb8f3ff7ff3c07c2cc70291560dbf3ebd05f39e85dc8df579ae971a0b9b",
+    "published_sha256": "56e1ebb8f3ff7ff3c07c2cc70291560dbf3ebd05f39e85dc8df579ae971a0b9b"
+  },
+  {
+    "path": "archive/work/rebuild_compat.py",
+    "original_sha256": "0c5f505e760606f93cee7e479e76cd1614b42c096f8cc1acd2836eb2fb5b1c88",
+    "published_sha256": "44933b6be916ffdbaad4012b18747ef4952e0e0df98270cd4a563b6f7f19a81f"
+  },
+  {
+    "path": "archive/work/rename_n810.py",
+    "original_sha256": "f30739222155520c65792224486125c9a11a619d0362b2e1e35d2ae30713707a",
+    "published_sha256": "f30739222155520c65792224486125c9a11a619d0362b2e1e35d2ae30713707a"
+  }
+]

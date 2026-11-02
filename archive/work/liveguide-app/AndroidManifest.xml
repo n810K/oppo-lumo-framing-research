@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.n810.camera.liveguide">
+ <uses-sdk android:minSdkVersion="31" android:targetSdkVersion="37"/>
+ <uses-permission android:name="android.permission.CAMERA"/>
+ <uses-permission android:name="mediatek.permission.ACCESS_APU_SYS"/>
+ <uses-feature android:name="android.hardware.camera.any" android:required="true"/>
+ <application android:label="Camera" android:icon="@drawable/camera_icon" android:theme="@android:style/Theme.Material.NoActionBar" android:debuggable="true" android:allowBackup="false" android:extractNativeLibs="true">
+  <activity android:name=".MainActivity" android:exported="true" android:screenOrientation="portrait">
+   <intent-filter><action android:name="android.intent.action.MAIN"/><category android:name="android.intent.category.LAUNCHER"/></intent-filter>
+  </activity>
+ </application>
+</manifest>
