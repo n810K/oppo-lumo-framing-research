@@ -1,7 +1,5 @@
 # LUMO Framing technical notes
 
-OPPO markets the feature as LUMO Framing. Live guide was the tested app label; earlier records retain that wording.
-
 Research conducted November 1–2, 2026. One CPH2791 running ColorOS 17. The original Camera inspected was version 7.006.125.
 
 The feature was more than a hidden icon. A separate modified copy of OPPO Camera eventually sent a live preview frame into the real composition engine, received a proposed crop and scene description, displayed the original dot-and-ring guidance, and applied a zoom ratio that could be checked independently in camera-service metadata. This happened without root or an unlocked bootloader.
@@ -85,7 +83,7 @@ But this route bypassed the original multi-frame still-processing path. The user
 
 | Area | What was established | Limit |
 | --- | --- | --- |
-| Live guide | Real inference, crop, guidance UI and applied zoom | Not a broad accuracy or scene-coverage study |
+| LUMO Framing | Real inference, crop, guidance UI and applied zoom | Not a broad accuracy or scene-coverage study |
 | Preview | Working SDR viewfinder | HDR preview still incompatible |
 | Capture | Individual full-resolution JPEGs saved | Original multi-frame processing bypassed |
 | Repeated shutter | First aligned shot completed | Second tap reached the enabled button but not the SDK capture hook |

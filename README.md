@@ -10,8 +10,6 @@ This repository preserves the investigation and original experimental patch/help
 - [Source map and reconstruction requirements](docs/source-map.md)
 - Website article prepared for n810studios.com; publication is pending the site integration merge.
 
-OPPO calls the feature LUMO Framing. The test app labelled its control Live guide, which is the name retained in historical filenames and code.
-
 ## Scope
 
 Tests took place on November 1–2, 2026, on one OPPO Find X9 Pro, CPH2791, running ColorOS 17. The original inspected Camera was 7.006.125. Firmware and app versions matter: obfuscated method names, DEX register numbers, native imports and model/runtime combinations are specific to the inspected artifacts.

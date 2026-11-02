@@ -6,8 +6,6 @@ Tested November 1–2, 2026, on a Find X9 Pro (CPH2791, ColorOS 17). The origina
 
 [LUMO Framing](https://www.oppo.com/en/articles/find-x10-series/best-phone-natural-image-processing-detail/) is OPPO's name for the feature that looks at the viewfinder and suggests how to frame a photo. I wanted it on my Find X9 Pro, with the original camera's image quality and automatic zoom.
 
-The test build called it **Live guide**, which is why that name appears in the earlier notes and source files. This article uses LUMO Framing for the feature and keeps Live guide where it refers to that button.
-
 I got the framing suggestions, positioning guide and automatic zoom working without root. The modified app also saved photos, but the quality and colours were worse, the view could jump between lenses, and taking a second photo wasn't reliable. I stopped using it.
 
 ## What was already in the app
